@@ -1,0 +1,15 @@
+html, body {
+  background-colour: black;
+  color: blue;
+  padding: 10px;
+  
+}
+picture {
+  float: left;
+}
+description {
+    float: right;
+}
+#reviews {
+  clear: both;
+}
