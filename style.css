@@ -1,0 +1,40 @@
+html, body {
+  background-colour: black;
+  color: blue;
+  padding: 10px;
+  font-family:'fantasy', Courier, monospace;
+}
+picture {
+  float: left;
+}
+description {
+    float: right;
+}
+#reviews {
+  clear: both;
+}
+p {
+    padding:10px;
+    border-radius:15%;
+    background-color:aquamarine;
+}
+#picture {
+    float: left;
+}
+
+#description {
+    float: right;
+    width: 50%;
+
+}
+
+#name {
+    font-weight: bold;
+}
+
+#reviews {
+    clear: both;
+    margin-top: 30px;
+    padding-top: 30px;
+   
+}
